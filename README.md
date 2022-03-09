@@ -1,2 +1,3 @@
 # M2DS
-projects done during the Data Science Master.
+projects done mostly during the Data Science Master.
+
